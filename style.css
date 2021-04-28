@@ -1,0 +1,16 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.main{
+    width: 700px;
+    height: 400px;
+    background-color: aqua;
+}
+
+.sub{
+    width: 100px;
+    height: 100px;
+    background-color:red;
+}
